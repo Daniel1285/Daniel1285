@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AF700&width=435&lines=welcome+to+my+profile+%3A))](https://git.io/typing-svg)
+
+
 <!--
 **Daniel1285/Daniel1285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
