@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AF700&width=435&lines=welcome+to+my+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=black&width=435&lines=welcome+to+my+profile.)](https://git.io/typing-svg)
 
 ## 👀 views
 ![](https://komarev.com/ghpvc/?username=Daniel1285)
