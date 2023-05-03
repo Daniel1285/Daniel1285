@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=450&lines=Welcome+to+my+profile.)](https://git.io/typing-svg)
 
+## 👀 views
+![](https://komarev.com/ghpvc/?username=Daniel1285)
+<!--
+**Daniel1285/Daniel1285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
 <table>
   <tr>
     <th align="center">For user accounts</th>
@@ -22,11 +28,6 @@
   </tr>
   <tr>
 </table>
-## 👀 views
-![](https://komarev.com/ghpvc/?username=Daniel1285)
-<!--
-**Daniel1285/Daniel1285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
