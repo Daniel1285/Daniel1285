@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=450&lines=Welcome+to+my+profile.)](https://git.io/typing-svg)
 
