@@ -57,7 +57,7 @@
 
 ###
 
-<p align="left">👀 views</p>
+<h2 align="left">👀 Views</h2>
 
 ###
 
